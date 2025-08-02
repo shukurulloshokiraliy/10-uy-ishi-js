@@ -128,7 +128,8 @@
 //   console.log("19:", lastBananaIndex(["apple", "banana", "orange", "banana"]));
 
 //   // 20-masala
-//   function sliceMiddle(arr) {
-//     return arr.slice(2, 6);
-//   }
-//   console.log("20:", sliceMiddle([0, 1, 2, 3, 4, 5, 6]));
+  function sliceMiddle(arr) {
+    return arr.slice(2, 5);
+  }
+  console.log(arr,sliceMiddle([0, 1, 2, 3, 4, 5, 6]));
+  sliceMiddle("cars")
