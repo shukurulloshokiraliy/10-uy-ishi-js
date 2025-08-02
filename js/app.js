@@ -114,14 +114,6 @@
 //   }
 //   console.log("16:", lastThree("javascript"));
 
-//   // 17-masala
-//   function increaseAge(obj) {
-//     const updated = Object.entries(obj).map(([key, value]) =>
-//       key === "age" ? [key, value + 1] : [key, value]
-//     );
-//     return Object.fromEntries(updated);
-//   }
-//   console.log("17:", increaseAge({ name: "Ali", age: 20 }));
 
 //   // 18-masala
 //   function addComma(str) {
@@ -140,9 +132,3 @@
 //     return arr.slice(2, 6);
 //   }
 //   console.log("20:", sliceMiddle([0, 1, 2, 3, 4, 5, 6]));
-
-//   // 21-masala
-//   function shortenJS(str) {
-//     return str.replaceAll("javascript", "JS");
-//   }
-//   console.log("21:", shortenJS("Men javascript o‘rganmoqdaman"));
