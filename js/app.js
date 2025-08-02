@@ -119,7 +119,7 @@
 //   function addComma(str) {
 //     return str.replaceAll(" ", ", ");
 //   }
-//   console.log("18:", addComma("salom dunyo"));
+//   console.log("18chi javob", addComma("salom dunyo"));
 
 //   // 19-masala
 //   function lastBananaIndex(arr) {
@@ -128,8 +128,8 @@
 //   console.log("19:", lastBananaIndex(["apple", "banana", "orange", "banana"]));
 
 //   // 20-masala
-  function sliceMiddle(arr) {
-    return arr.slice(2, 5);
-  }
-  console.log(arr,sliceMiddle([0, 1, 2, 3, 4, 5, 6]));
-  sliceMiddle("cars")
+//   function sliceMiddle(arr) {
+//     return arr.slice(2, 5);
+//   }
+//   console.log(arr,sliceMiddle([0, 1, 2, 3, 4, 5, 6]));
+//   sliceMiddle("cars")
